@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib_core.a  CMakeFiles/lib_core.dir/DNASeq.cpp.o CMakeFiles/lib_core.dir/SeqIO.cpp.o CMakeFiles/lib_core.dir/align_stats.cpp.o CMakeFiles/lib_core.dir/base.cpp.o CMakeFiles/lib_core.dir/main.cpp.o
+/usr/bin/ranlib liblib_core.a
